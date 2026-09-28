@@ -1,5 +1,13 @@
-# ai-tpm-risk-agent
-This AI agent suggests the actions to be taken in the project to navigate the current risks and issues.
+# ai-tpm-risk-agentAn 
+AI-assisted Technical Program Management tool analyzes unstructured project updates and identifies program risks, dependencies, issues, recommended actions, and executive-level insights.
+
+More details will follow:
+Problem statement
+Architecture
+Example input/output
+Technology used
+How the AI workflow works
+Future enhancements
 
 Example: Input Project Current status/scenario - “API team is delayed by 10 days. Security review has not started and UAT begins in two weeks"
 

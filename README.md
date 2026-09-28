@@ -1,4 +1,4 @@
-# ai-tpm-risk-agentAn 
+# ai-tpm-risk-agent
 AI-assisted Technical Program Management tool analyzes unstructured project updates and identifies program risks, dependencies, issues, recommended actions, and executive-level insights.
 
 More details will follow:
